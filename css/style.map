@@ -5,7 +5,7 @@
 		"../sass/style.sass"
 	],
 	"sourcesContent": [
-		""
+		"h1 {}\n"
 	],
 	"mappings": "",
 	"names": []
