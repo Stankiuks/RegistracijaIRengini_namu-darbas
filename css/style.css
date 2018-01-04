@@ -1,2 +1,22 @@
+/* line 1, /home/evaldas/Projektai PHP Storm/javascript/registracijaIRengini/sass/style.sass */
+h1 {
+  font-family: 'Orbitron Black';
+  display: flex;
+  justify-content: center;
+  padding-bottom: 20px;
+}
+
+/* line 7, /home/evaldas/Projektai PHP Storm/javascript/registracijaIRengini/sass/style.sass */
+.registracija {
+  background-color: #23C359;
+  color: #ffffff;
+  border-radius: 10px;
+  font-size: 18px;
+  font-family: NanumGothic;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
 
 /*# sourceMappingURL=../css/style.map */
