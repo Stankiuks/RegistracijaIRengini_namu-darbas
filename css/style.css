@@ -19,4 +19,15 @@ h1 {
   padding-right: 15px;
 }
 
+/* line 18, /home/evaldas/Projektai PHP Storm/javascript/registracijaIRengini/sass/style.sass */
+body {
+  background-color: #EDF2F6;
+}
+
+/* line 21, /home/evaldas/Projektai PHP Storm/javascript/registracijaIRengini/sass/style.sass */
+table {
+  font-family: Meera;
+  font-style: normal;
+}
+
 /*# sourceMappingURL=../css/style.map */
